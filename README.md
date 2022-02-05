@@ -10,4 +10,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Repos da faculdade e de estudos online
+------------------
+## Contato
+[Linkedin](https://www.linkedin.com/in/elias-rodrigues98/)
+[E-mail](elias.roodrigues98@gmail.com)
