@@ -12,4 +12,4 @@
 
 ## Contato
 [Linkedin](https://www.linkedin.com/in/elias-rodrigues98/) <br>
-[E-mail]<elias.roodrigues98@gmail.com>
+E-mail: <elias.roodrigues98@gmail.com>
