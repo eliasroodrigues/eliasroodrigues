@@ -12,5 +12,5 @@
 
 ------------------
 ## Contato
-[Linkedin](https://www.linkedin.com/in/elias-rodrigues98/)
+[Linkedin](https://www.linkedin.com/in/elias-rodrigues98/).
 [E-mail](elias.roodrigues98@gmail.com)
