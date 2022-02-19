@@ -1,3 +1,5 @@
+## Hi, Elias here! :wave:
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -6,8 +8,13 @@
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
-## Contato
+## Contact
 [Linkedin](https://www.linkedin.com/in/elias-rodrigues98/) <br>
 E-mail: <elias.roodrigues98@gmail.com>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasroodrigues&hide=prs,issues&theme=react)](https://github.com/anuraghazra/github-readme-stats)
