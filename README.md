@@ -1,6 +1,6 @@
-### Hi, Elias here! :wink:
+### Hi there! :wink:
 
-I'm a computer science student from Brazil! Here's some info about me...
+My name is Elias and I'm a computer science student from Brazil!
 
 :zap: Tools that I like:
 
@@ -16,10 +16,7 @@ I'm a computer science student from Brazil! Here's some info about me...
 
 :eyes: Interests:
 - Web development.
-- Frontend.
-- Backend.
+- Technology.
+- Games.
 
-:speech_balloon: Reach me by:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836??style=flat&logo=gmail&logoColor=white)](mailto:elias.roodrigues98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-rodrigues98/)
+:speech_balloon: Reach me by email or LinkedIn: elias.roodrigues98@gmail.com | www.linkedin.com/in/elias-rodrigues98
