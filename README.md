@@ -3,7 +3,7 @@
 My name is Elias and I'm a computer science student from Brazil!
 
 :zap: Work experience: <br>
-- **Trainee Technical Consultant at TRI CS Inc.** <!-- Training on the most new technologys of Oracle. -->
+- **Technical Consultant at TRI CS Inc.** <!-- Training on the most new technologys of Oracle. -->
 
 :eyes: Interests: <br>
 - Web development.
