@@ -3,7 +3,7 @@
 My name is Elias and I'm a BSc. Computer Science from Brazil!
 
 :zap: Work experience: <br>
-- **4+ years - Oracle Technical Consultant at Peloton Consulting Group - LATAM**
+- **3+ years - Oracle Technical Consultant at Peloton Consulting Group - LATAM**
 
 :eyes: Interests: <br>
 - Technology.
